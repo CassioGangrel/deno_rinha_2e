@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "postgres": "https://deno.land/x/postgres@v.0.18.1/mod.ts",
+    "oak": "https://deno.land/x/oak@v13.2.5/mod.ts"
+  }
+}
